@@ -1,5 +1,8 @@
 # Power BI Course for Beginners
 
+## watch here:
+[Watch the Power BI course on Google Drive](https://drive.google.com/drive/folders/1bYwtfWTYwwfH22LRP8U0HZA8Ul-lxwPV)
+
 This is the Power BI module of the **Past Hundred Data Analysis course**. It takes you from importing your first dataset in Power BI Desktop to building a sales report, writing DAX measures, and publishing a report to the Power BI Service.
 
 Start with the [four-page course outline](docs/power-bi-course-outline.pdf). Follow the course in order and pause to reproduce each demonstration in Power BI Desktop. The [practice files](datasets-parts-01-06/README.md) and the two project folders are organized by the stage where you use them.
